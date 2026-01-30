@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/cloudflare/workers-sdk/main/packages/wrangler/config-schema.json",
-  "name": "shutuaiship",
+  "name": "shutu-ai-ship",
   "compatibility_date": "2026-01-30",
   "assets": {
     "directory": "./out"
